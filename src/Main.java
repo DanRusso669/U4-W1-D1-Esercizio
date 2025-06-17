@@ -5,8 +5,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        Esercizio1 eserc1;
-        eserc1 = new Esercizio1();
+        Esercizio1 eserc1 = new Esercizio1();
 
 
         int num1 = 10, num2 = 2, num3 = 25;
