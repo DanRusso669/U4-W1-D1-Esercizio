@@ -1,13 +1,13 @@
+import es1.Esercizio1;
+
 import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
 
         Esercizio1 eserc1;
-       // Esercizio3 eserc3;
-
         eserc1 = new Esercizio1();
-        //eserc3 = new Esercizio3();
+
 
         int num1 = 10, num2 = 2, num3 = 25;
 
