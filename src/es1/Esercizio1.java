@@ -1,3 +1,5 @@
+package es1;
+
 public class Esercizio1 {
 
     public static int moltiplica (int num1, int num2){
